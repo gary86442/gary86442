@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gary Lee</h1>
+<h3 align="center">A beginner of programming...</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chiayu-lee" target="blank"><img align="center">
 
 <!--
 **gary86442/gary86442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
